@@ -1,0 +1,13 @@
+{
+    "bearer_token": "YOUR BEARER_TOKEN FROM SPLITWISE",
+    "groups": [
+        {
+            "group_id": "ID OF YOUR GROUP",
+            "group_name": "NAME OF YOUR GROUP (Can be anything)",
+            "user_info": {
+                "A (Can be anything)": "ID OF MEMBER A",
+                "B (Can be anything)": "ID OF MEMBER B"
+            }
+        }
+    ]
+}
