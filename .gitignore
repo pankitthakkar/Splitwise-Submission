@@ -1,1 +1,8 @@
 /src/config.json
+
+/Excel.xlsx
+
+/tests/__pycache__/
+/tests/.pytest_cache/
+
+/__pycache__/
